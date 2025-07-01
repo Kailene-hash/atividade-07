@@ -1,5 +1,5 @@
 body {
-  color: #030303; /* Dark gray */
+  color: #fffdfd; /* Dark gray */
   background-color: #a15b33; /* Light gray */
   text-align:center;
 }
@@ -16,6 +16,6 @@ header {
     background-color:#8f3512
 }
 section {
-  background-color: #f8f0f0;
+  background-color: #8b4a0d;
   padding: 20px;
 }
