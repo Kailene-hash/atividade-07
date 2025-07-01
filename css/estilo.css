@@ -13,9 +13,23 @@ h2 {
 }
 
 header {
-    background-color:#8f3512
+    background-color:#68260c
 }
 section {
-  background-color: #8b4a0d;
+  background-color: #68260c;
+  margin-top: 40px;
   padding: 20px;
+  border-radius: 10px;
 }
+ 
+ section img{
+  height: 500px;
+  border-radius: 20px;
+  margin:3px;
+ }
+
+ footer{
+  margin-top: 30px;
+  background-color: #fffdfd;
+  padding: 1px;
+ }
