@@ -9,17 +9,11 @@ header {
 section {
   background-color: #68260c;
   margin-top: 40px;
+  text-align: center;
   padding: 20px;
   border-radius: 10px;
 }
     
-body {
-  color: #fffdfd; /* Dark gray */
-  background-color: #945632; /* Light gray */
-  text-align:center;
-  margin: 0px;
-}
-
 main{
   font-size: 15px;
   align-items: center;
@@ -33,6 +27,13 @@ main{
   border-radius: 20px;
   margin: 3px;
  }
+
+ body {
+  color: #fffdfd; /* Dark gray */
+  background-color: #945632; /* Light gray */
+  text-align:center;
+  margin: 1px;
+}
 
  footer{
   margin-top: 30px;
