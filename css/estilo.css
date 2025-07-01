@@ -23,7 +23,8 @@ main{
 
  
  section img{
-  height: 500px;
+  width: 500px; 
+  height: auto;
   border-radius: 20px;
   margin: 3px;
  }
